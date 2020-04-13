@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Simo's Python Programming Blog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2020-04-13T00:00:00+02:00</updated><entry><title>If Statements in Python</title><link href="/if-statements-in-python.html" rel="alternate"></link><published>2020-04-13T00:00:00+02:00</published><updated>2020-04-13T00:00:00+02:00</updated><author><name>Simo</name></author><id>tag:None,2020-04-13:/if-statements-in-python.html</id><summary type="html">&lt;h2&gt;IF statement in Python&lt;/h2&gt;
+&lt;p&gt;The power of programming is to define the reaction of your program depending on events or User Input.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;IF statement&lt;/em&gt; allows your Python program to make decisions you program previously. That's why it's very import for you to understand the Syntax.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If Computer is turned on …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;h2&gt;IF statement in Python&lt;/h2&gt;
+&lt;p&gt;The power of programming is to define the reaction of your program depending on events or User Input.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;IF statement&lt;/em&gt; allows your Python program to make decisions you program previously. That's why it's very import for you to understand the Syntax.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If Computer is turned on code Python. If Computer is turned off read Python Books.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This seems to be a very productive way to become better and better in Python, isn't?
+We won't program this now do not worry. We will look at a easier example:&lt;/p&gt;
+&lt;p&gt;if 2 == 8 / 4:
+    print ("Right")&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Right&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As shown you can check with the IF statement one condition in Python. You are also able to define what should happen when the result of the IF statement is False:&lt;/p&gt;
+&lt;p&gt;What if the condition is not right? That's what you can see in the next example:&lt;/p&gt;
+&lt;p&gt;if 2 == 8 / 4:
+    print ("Right")
+else:
+    print ("Not right")&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Right&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;if 2 == 8 / 4:
+    print ("Right")
+else:
+    print ("Not right")&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not right&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As you can see the most powerful here is that you can determine what should happen in case a condition is not False.
+Think about a big structured program which should react depending on the Input
+&lt;em&gt;The program dicides between two options: A True condition or a False condition.&lt;/em&gt;&lt;/p&gt;</content><category term="misc"></category></entry></feed>
