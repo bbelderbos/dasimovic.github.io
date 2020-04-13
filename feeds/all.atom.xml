@@ -34,4 +34,24 @@ else:
 &lt;/blockquote&gt;
 &lt;p&gt;As you can see the most powerful here is that you can determine what should happen in case a condition is not False.
 Think about a big structured program which should react depending on the Input
-&lt;em&gt;The program dicides between two options: A True condition or a False condition.&lt;/em&gt;&lt;/p&gt;</content><category term="misc"></category></entry></feed>
+&lt;em&gt;The program dicides between two options: A True condition or a False condition.&lt;/em&gt;&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Indexing in Python</title><link href="/indexing-in-python.html" rel="alternate"></link><published>2020-04-13T00:00:00+02:00</published><updated>2020-04-13T00:00:00+02:00</updated><author><name>Simo</name></author><id>tag:None,2020-04-13:/indexing-in-python.html</id><summary type="html">&lt;h2&gt;Indexing in Python&lt;/h2&gt;
+&lt;p&gt;Ever needed to extract elements of a String? Like the first character or the first one?
+You can use indexing in Python to extract the needed elements.&lt;/p&gt;
+&lt;p&gt;You use square brackets and within the square brackets is specified which index have to been extracted.
+So let's understand …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Indexing in Python&lt;/h2&gt;
+&lt;p&gt;Ever needed to extract elements of a String? Like the first character or the first one?
+You can use indexing in Python to extract the needed elements.&lt;/p&gt;
+&lt;p&gt;You use square brackets and within the square brackets is specified which index have to been extracted.
+So let's understand indexing in Python:&lt;/p&gt;
+&lt;p&gt;"Variable" [index_of_element] means as example:&lt;/p&gt;
+&lt;p&gt;In Python we count from zero not from one:&lt;/p&gt;
+&lt;p&gt;"PYTHON"&lt;/p&gt;
+&lt;p&gt;print("PYTHON"[0])&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;P&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;print("PYTHON"[1])&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Y&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;This is how indexing with Python works. You refer to the object and Parse through the indexies from zero to the last character.&lt;/em&gt;&lt;/p&gt;</content><category term="misc"></category></entry></feed>
